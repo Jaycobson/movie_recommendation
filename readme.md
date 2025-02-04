@@ -5,6 +5,9 @@
 ## Overview
 This project implements a **Content-Based Movie Recommendation System** using **TF-IDF Vectorization** and **Cosine Similarity** to find similar movies based on features like title, keywords, cast, and genres. The system suggests movies that are most similar to a given movie by analyzing textual data and computing similarity scores.
 
+
+[Link to PowerBI Visualization](https://github.com/user/repo/blob/branch/other_file.md)
+
 ## How It Works
 
 ### 1. Feature Engineering: Combining Key Attributes
